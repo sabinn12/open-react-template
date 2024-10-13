@@ -115,7 +115,7 @@ export default function Workflows() {
                     </span>
                   </div>
                   <p className="text-indigo-200/65">
-                    Streamline the product development flow with a content
+                    Streamline  product development flow with a content
                     platform that's aligned across specs and insights.
                   </p>
                 </div>
